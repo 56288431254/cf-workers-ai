@@ -33,7 +33,7 @@
 		"@typescript-eslint/eslint-plugin": "^6.19.1",
 		"@typescript-eslint/parser": "^6.19.1",
 		"eslint": "^8.56.0",
-		"eslint-config-prettier": "^10.0.1",
+		"eslint-config-prettier": "^10.1.1",
 		"lerna": "^8.1.9",
 		"prettier": "^3.5.3",
 		"typescript": "^5.8.2"
