@@ -30,7 +30,7 @@
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20250414.0",
-		"@typescript-eslint/eslint-plugin": "^6.19.1",
+		"@typescript-eslint/eslint-plugin": "^8.31.0",
 		"@typescript-eslint/parser": "^6.19.1",
 		"eslint": "^8.56.0",
 		"eslint-config-prettier": "^10.1.2",
