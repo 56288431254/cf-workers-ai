@@ -23,7 +23,7 @@
 		"eslint": "^8.56.0",
 		"eslint-config-prettier": "^10.1.8",
 		"lerna": "^9.0.4",
-		"prettier": "^3.7.4",
+		"prettier": "^3.8.1",
 		"typescript": "^5.9.3"
 	}
 }
